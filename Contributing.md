@@ -15,3 +15,9 @@ If you do not have a GitHub account, you can send us comments by email. However,
 If you have a GitHub account, or are willing to create one, but do not know how to use Git, you can report problems or suggest improvements by creating an issue. This allows us to assign the item to someone and to respond to it in a threaded discussion.
 
 If you are comfortable with Git, and would like to resolve an existing issue that's been labeled by the maintainers or typos/bugs, you can submit a pull request (PR). If you want to add new functions, you can fork the repository and submit a pull request with your changes. Make sure to write test cases to test your code and check that all the tests are passing before submitting the PR. If you'd like to suggest substantial changes, please first raise an issue to allow the maintainers to comment, so we can discuss whether/how these changes should be made.
+
+## Attribution
+
+This collaboration strategy is adapted from the [Software Carpentry CONTRIBUTING.md](https://github.com/swcarpentry/r-novice-inflammation/blob/gh-pages/CONTRIBUTING.md)
+
+ 
